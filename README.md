@@ -1,1 +1,1 @@
-# simpple-python-app
+# simpple-python-app for Jenkins Pipeline
